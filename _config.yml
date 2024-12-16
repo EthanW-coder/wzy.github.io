@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Wang, Zeyu(王泽宇)" # "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Junjie Liu (刘俊杰)" # "Your Name"
+name                     : &name "Wang, Zeyu(王泽宇)" # "Your Name"
 description              : &description "personal description"
 url                      : "https://chunkitlau.github.io" # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/EthanW-coder" # "academicpages"
+  github           : "EthanW-coder" # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
