@@ -23,5 +23,6 @@ Our paper ["RestorMamba: An Enhanced Synergistic State Space Mode"]() is accepte
 
 Our paper ["MambaInst: Lightweight State Space Model for Real-Time Instance Segmentation"]() is accepted by ICASSP2025.
 
-## Publications
+
+# Publications
 
