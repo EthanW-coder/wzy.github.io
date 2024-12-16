@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-My current research interests are Object detection, instance segmentation, and image restoration.
+My current research interests are object detection, instance segmentation, and image restoration.
 
 I am currently a postgraduate in Computer Science at [ZJNU](https://www.zjnu.edu.cn/main.htm) 
 
 
 # NEWS
-
 ## Paper is on the way
-
 Our paper ["Rethinking Cross-Modality Fusion Mamba from a Frequency Domain Perspective"]() is on the way. (under review)
 
-
-
+# Publications
+Our paper ["Mamba YOLO: A Simple Baseline for Object Detection with State Space Model"]() is accepted by AAAI2025.
