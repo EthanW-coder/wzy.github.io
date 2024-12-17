@@ -32,7 +32,7 @@ Our paper ["MambaInst: Lightweight State Space Model for Real-Time Instance Segm
 
 <div align="center">
   
-Zeyu Wang<sup>1,2,*</sup>, Chen Li<sup>1,2,*</sup>, Huiying Xu<sup>1,2,†</sup>, Xinzhong Zhu<sup>1,2,3,†</sup>, Hongbo Li<sup>3</sup>
+Zeyu Wang<sup>1,2</sup>, Chen Li<sup>1,2</sup>, Huiying Xu<sup>1,2,†</sup>, Xinzhong Zhu<sup>1,2,3,†</sup>, Hongbo Li<sup>3</sup>
 
 <sup>1</sup>College of Computer Science and Technology, Zhejiang Normal University, Zhejiang, 311231, China  
 
