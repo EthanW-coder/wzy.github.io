@@ -26,9 +26,10 @@ Our paper ["MambaInst: Lightweight State Space Model for Real-Time Instance Segm
 
 # Publications  
 
-![image](./mambayolo.jpg)
 
 # <center>Mamba YOLO: A Simple Baseline for Object Detection with State Space Model</center>
+
+![image](./mambayolo.jpg)
 
 <div align="center">
   
@@ -43,9 +44,10 @@ Zeyu Wang<sup>1,2</sup>, Chen Li<sup>1,2</sup>, Huiying Xu<sup>1,2,†</sup>, Xi
 </div>
 
 
-![image](./mambainst.jpg)
 
 # <center>MambaInst: Lightweight State Space Model for Real-Time Instance Segmentation</center>
+
+![image](./mambainst.jpg)
 
 <div align="center">
   
@@ -60,9 +62,11 @@ Zeyu Wang<sup>1</sup>, Chen Li<sup>1</sup>, Huiying Xu<sup>1,†</sup>, Xinzhong
 </div>
 
 
-![image](./restormamba.jpg)
+
 
 # <center>RestorMamba: An Enhanced Synergistic State Space Model for Image Restoration</center>
+
+![image](./restormamba.jpg)
 
 <div align="center">
   
