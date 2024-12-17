@@ -26,13 +26,14 @@ Our paper ["MambaInst: Lightweight State Space Model for Real-Time Instance Segm
 
 # Publications  
 ![image](./mambayolo.jpg)
-Mamba YOLO: A Simple Baseline for Object Detection with State Space Model
+# <center>Mamba YOLO: A Simple Baseline for Object Detection with State Space Model</center>
 <div align="center">
 **Zeyu Wang<sup>1,2,*</sup>, Chen Li<sup>1,2,*</sup>, Huiying Xu<sup>1,2,†</sup>, Xinzhong Zhu<sup>1,2,3,†</sup>, Hongbo Li<sup>3</sup>**
 <sup>1</sup>College of Computer Science and Technology, Zhejiang Normal University, Zhejiang, 311231, China  
 <sup>2</sup>Research Institute of Hangzhou Artificial Intelligence, Zhejiang Normal University, Hangzhou, Zhejiang, 311231, China  
 <sup>3</sup>Beijing Geekplus Technology Co, Ltd, Beijing, 100101, China  
 </div>
+
 
 ![image](./mambainst.jpg)
 MambaInst: Lightweight State Space Model for Real-Time Instance Segmentation
