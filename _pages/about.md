@@ -26,8 +26,8 @@ Our paper ["MambaInst: Lightweight State Space Model for Real-Time Instance Segm
 
 # Publications  
 
-![image](./images/mambainst.jpg)
+![image](wzy.github.io//images/mambainst.jpg)
 
-![image](./images/mambayolo.jpg)
+![image](wzy.github.io//images/mambayolo.jpg)
 
-![image](./images/restormamba.jpg)
+![image](wzy.github.io//images/restormamba.jpg)
