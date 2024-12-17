@@ -33,13 +33,7 @@ Our paper ["MambaInst: Lightweight State Space Model for Real-Time Instance Segm
 
 <div align="center">
   
-Zeyu Wang<sup>1,2</sup>, Chen Li<sup>1,2</sup>, Huiying Xu<sup>1,2,†</sup>, Xinzhong Zhu<sup>1,2,3,†</sup>, Hongbo Li<sup>3</sup>
-
-<sup>1</sup>College of Computer Science and Technology, Zhejiang Normal University, Zhejiang, 311231, China  
-
-<sup>2</sup>Research Institute of Hangzhou Artificial Intelligence, Zhejiang Normal University, Hangzhou, Zhejiang, 311231, China  
-
-<sup>3</sup>Beijing Geekplus Technology Co, Ltd, Beijing, 100101, China  
+Zeyu Wang, Chen Li, Huiying Xu, Xinzhong Zhu, Hongbo Li
 
 </div>
 
@@ -51,13 +45,7 @@ Zeyu Wang<sup>1,2</sup>, Chen Li<sup>1,2</sup>, Huiying Xu<sup>1,2,†</sup>, Xi
 
 <div align="center">
   
-Zeyu Wang<sup>1</sup>, Chen Li<sup>1</sup>, Huiying Xu<sup>1,†</sup>, Xinzhong Zhu<sup>1,3,†</sup>, Xiao hhuang<sup>2,</sup>,Hongbo Li<sup>3</sup>
-
-<sup>1</sup>College of Computer Science and Technology, Zhejiang Normal University, Zhejiang, 311231, China  
-
-<sup>1</sup>College of education, Zhejiang Normal University, Zhejiang, 311231, China  
-
-<sup>3</sup>Beijing Geekplus Technology Co, Ltd, Beijing, 100101, China  
+Zeyu Wang, Chen Li, Huiying Xu, Xinzhong Zhu, Xiao hhuang,Hongbo Li
 
 </div>
 
@@ -70,12 +58,6 @@ Zeyu Wang<sup>1</sup>, Chen Li<sup>1</sup>, Huiying Xu<sup>1,†</sup>, Xinzhong
 
 <div align="center">
   
-Zeyu Wang<sup>1</sup>, Chen Li<sup>1</sup>, Huiying Xu<sup>1,†</sup>, Xinzhong Zhu<sup>1,3,†</sup>, Xiao hhuang<sup>2,</sup>,Hongbo Li<sup>3</sup>
-
-<sup>1</sup>College of Computer Science and Technology, Zhejiang Normal University, Zhejiang, 311231, China  
-
-<sup>1</sup>College of education, Zhejiang Normal University, Zhejiang, 311231, China  
-
-<sup>3</sup>Beijing Geekplus Technology Co, Ltd, Beijing, 100101, China  
+Zeyu Wang, Chen Li, Huiying Xu, Xinzhong Zhu, Xiao hhuang,Hongbo Li
 
 </div>
